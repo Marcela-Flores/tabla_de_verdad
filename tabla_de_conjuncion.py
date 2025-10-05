@@ -1,5 +1,4 @@
-import os
-os.system("cls")
+
 
 print("-------------------------------------")
 print("\nTabla de verdad de and o conjunción")

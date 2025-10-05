@@ -1,5 +1,3 @@
-import os
-os.system("cls")
 
 print("-------------------------------------")
 print("Tabla de verdad de or o disyunción")

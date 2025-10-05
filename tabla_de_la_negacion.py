@@ -1,5 +1,4 @@
-import os
-os.system("cls")
+
 
 print("\n-------------------------------------")
 print("Tabla de verdad de not o negación")
